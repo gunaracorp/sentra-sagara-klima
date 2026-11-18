@@ -1,0 +1,72 @@
+[
+ {
+  "slug": "ac-split",
+  "name": "AC Split",
+  "description": "AC Split untuk kebutuhan residensial dan komersial. Tersedia berbagai kapasitas dari 0.5 PK hingga 5 PK dengan teknologi inverter terbaru.",
+  "image": "/assets/img/categories/split-ac.webp",
+  "sort": 1
+ },
+ {
+  "slug": "kompresor",
+  "name": "Kompresor",
+  "description": "Kompresor AC berkualitas tinggi untuk semua merek. Tersedia kompresor rotary, scroll, dan reciprocating untuk berbagai tipe AC.",
+  "image": "/assets/img/categories/kompresor.webp",
+  "sort": 2
+ },
+ {
+  "slug": "refrigerant",
+  "name": "Refrigerant",
+  "description": "Refrigerant / freon AC berkualitas standar internasional. Tersedia R32, R410A, R22, dan jenis lainnya dalam berbagai ukuran.",
+  "image": "/assets/img/categories/refrigerant.webp",
+  "sort": 3
+ },
+ {
+  "slug": "spare-part-ac",
+  "name": "Spare Part AC",
+  "description": "Suku cadang AC lengkap untuk semua merek dan tipe. Kondensor, evaporator, fan motor, PCB, remote, dan komponen lainnya.",
+  "image": "/assets/img/categories/sparepart.webp",
+  "sort": 4
+ },
+ {
+  "slug": "chiller-vrv-vrf",
+  "name": "Chiller & VRV/VRF",
+  "description": "Sistem pendingin sentral untuk gedung perkantoran, hotel, rumah sakit, dan pusat perbelanjaan. Chiller air-cooled dan water-cooled, serta sistem VRV/VRF.",
+  "image": "/assets/img/categories/chiller.webp",
+  "sort": 5
+ },
+ {
+  "slug": "mesin-pendingin",
+  "name": "Mesin Pendingin",
+  "description": "Mesin pendingin industri untuk cold room, cold storage, freezer, dan aplikasi pendingin komersial lainnya.",
+  "image": "/assets/img/categories/mesin-pendingin.webp",
+  "sort": 6
+ },
+ {
+  "slug": "pipa-fitting",
+  "name": "Pipa & Fitting",
+  "description": "Pipa tembaga, pipa PVC, insulasi pipa, fitting, dan aksesoris perpipaan untuk instalasi AC dan sistem pendingin.",
+  "image": "/assets/img/categories/pipa-fitting.webp",
+  "sort": 7
+ },
+ {
+  "slug": "oli-cairan",
+  "name": "Oli & Cairan",
+  "description": "Oli kompresor, cairan pembersih evaporator, anti bakteri, dan cairan perawatan sistem pendingin.",
+  "image": "/assets/img/categories/oli-cairan.webp",
+  "sort": 8
+ },
+ {
+  "slug": "aksesoris-ac",
+  "name": "Aksesoris AC",
+  "description": "Remote AC, thermostat, bracket, kapasitor, PCB board, fan motor, dan aksesoris pendukung AC lainnya.",
+  "image": "/assets/img/categories/aksesoris-ac.webp",
+  "sort": 9
+ },
+ {
+  "slug": "evaporator-kondensor",
+  "name": "Evaporator & Kondensor",
+  "description": "Evaporator dan kondensor untuk berbagai tipe AC. Tersedia untuk AC split, cassette, floor standing, dan paket unit.",
+  "image": "/assets/img/categories/evaporator-kondensor.webp",
+  "sort": 10
+ }
+]

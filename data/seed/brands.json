@@ -1,0 +1,254 @@
+[
+ {
+  "slug": "armaflex",
+  "name": "Armaflex",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "berkat-mandiri",
+  "name": "Berkat Mandiri",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "bitzer",
+  "name": "Bitzer",
+  "logo": "/assets/logos/bitzer.png",
+  "description": null
+ },
+ {
+  "slug": "carlyle",
+  "name": "Carlyle",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "carrier",
+  "name": "Carrier",
+  "logo": "/assets/logos/carrier.png",
+  "description": null
+ },
+ {
+  "slug": "changhong",
+  "name": "Changhong",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "chemours",
+  "name": "Chemours",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "copeland",
+  "name": "Copeland",
+  "logo": "/assets/logos/copeland.png",
+  "description": null
+ },
+ {
+  "slug": "daikin",
+  "name": "Daikin",
+  "logo": "/assets/logos/daikin.png",
+  "description": null
+ },
+ {
+  "slug": "danfoss",
+  "name": "Danfoss",
+  "logo": "/assets/logos/danfoss.png",
+  "description": null
+ },
+ {
+  "slug": "embraco",
+  "name": "Embraco",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "emkarate",
+  "name": "Emkarate",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "frascold",
+  "name": "Frascold",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "fujitsu-general",
+  "name": "Fujitsu General",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "gmcc",
+  "name": "GMCC",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "generic",
+  "name": "Generic",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "gree",
+  "name": "Gree",
+  "logo": "/assets/logos/gree.png",
+  "description": null
+ },
+ {
+  "slug": "highly",
+  "name": "Highly",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "hitachi",
+  "name": "Hitachi",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "hoda",
+  "name": "Hoda",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "honeywell",
+  "name": "Honeywell",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "insulflex",
+  "name": "Insulflex",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "kulthorn-kirby",
+  "name": "Kulthorn Kirby",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "lg",
+  "name": "LG",
+  "logo": "/assets/logos/lg.png",
+  "description": null
+ },
+ {
+  "slug": "linde",
+  "name": "Linde",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "m-flex",
+  "name": "M-Flex",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "mcquay",
+  "name": "McQuay",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "midea",
+  "name": "Midea",
+  "logo": "/assets/logos/midea.png",
+  "description": null
+ },
+ {
+  "slug": "mitsubishi",
+  "name": "Mitsubishi",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "mitsubishi-electric",
+  "name": "Mitsubishi Electric",
+  "logo": "/assets/logos/mitsubishi-electric.png",
+  "description": null
+ },
+ {
+  "slug": "mueller",
+  "name": "Mueller",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "panasonic",
+  "name": "Panasonic",
+  "logo": "/assets/logos/panasonic.png",
+  "description": null
+ },
+ {
+  "slug": "refcomp",
+  "name": "Refcomp",
+  "logo": "/assets/logos/refcomp.png",
+  "description": null
+ },
+ {
+  "slug": "samsung",
+  "name": "Samsung",
+  "logo": "/assets/logos/samsung.png",
+  "description": null
+ },
+ {
+  "slug": "sanyo",
+  "name": "Sanyo",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "schneider",
+  "name": "Schneider",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "sharp",
+  "name": "Sharp",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "suniso",
+  "name": "Suniso",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "tecumseh",
+  "name": "Tecumseh",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "toshiba",
+  "name": "Toshiba",
+  "logo": null,
+  "description": null
+ },
+ {
+  "slug": "trane",
+  "name": "Trane",
+  "logo": "/assets/logos/trane.png",
+  "description": null
+ },
+ {
+  "slug": "universal",
+  "name": "Universal",
+  "logo": null,
+  "description": null
+ }
+]

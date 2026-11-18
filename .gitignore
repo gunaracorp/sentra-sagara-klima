@@ -1,0 +1,10 @@
+# runtime data
+data/*.sqlite*
+data/logs/
+uploads/
+!uploads/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
