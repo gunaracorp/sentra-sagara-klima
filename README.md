@@ -2,6 +2,8 @@
 
 # ❄️ SENTRA SAGARA KLIMA
 
+**🌐 WEBSITE LIVE: https://gunaracorp.github.io/sentra-sagara-klima/ →** storefront statis pre-render 273 halaman (GitHub Pages, gratis, HTTPS) — hasil generate dari repo ini via `tools/static-gen/`. Branch `gh-pages` = situs live · branch `main` = CMS + source generator.
+
 **Pusat Kompresor, AC & Spare Part HVAC — Super-CMS PHP murni, tanpa framework, tanpa Node.**
 
 Kompresor AC · Spare Part · Refrigerant · Chiller · Aksesoris — 151 produk & 42 merek siap jual.
@@ -69,6 +71,19 @@ data/
 ```
 
 **Instalasi = nol langkah.** Buka website → database dibuat → 151 produk ter-seed → buat akun admin di `/admin` (setup screen). Data seed di `data/seed/*.json` selalu bisa di-seed ulang.
+
+## 🌐 Website Live (GitHub Pages)
+
+Situs live di-generate dari `data/seed/*.json` oleh `tools/static-gen/build_static.py`:
+
+```bash
+python3 tools/static-gen/build_static.py   # output → /home/z/my-project/static-build
+```
+
+- 273 halaman HTML pre-render (SEO penuh per halaman: meta, OG, JSON-LD, sitemap 271 URL)
+- Katalog, pencarian & filter facet jalan client-side (fetch `data/products.json`)
+- Keranjang → **Pesan via WhatsApp** langsung ke CS (kontak asli dari repo lama)
+- Ubah data seed → jalankan generator → push branch `gh-pages` = website update
 
 ## 📖 Mulai
 
